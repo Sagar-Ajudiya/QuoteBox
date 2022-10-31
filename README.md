@@ -1,5 +1,5 @@
 # QuoteBox
-
+This app is created using Kotlin and XML and also using API of quotes.
 
 # Demo Picture
 <p align="left">
